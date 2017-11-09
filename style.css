@@ -1,0 +1,16 @@
+body{font-family:"Montserrat", Arial, "Helvetica Neue", sans-serif; font-size: 70px; color:black;}
+			.work{padding-right:4%;}
+			.education{padding-top:0.02px; padding-right:4%;}
+			.bold{font-weight:bold;}
+			.bio{padding:50px;}
+			.button{padding:10px 90px; text-decoration:none; color:white; border-radius:10px; background-color:#000}
+			#share-buttons img {width: 35px; padding: 5px; border: 0; box-shadow: 0; display: inline;}
+			.profile-image{border-radius: 50%; border:none; padding-top: 20px; padding-bottom: 20px;}
+			.twitter{width: 10px; height: 10px; margin: 0 5px;}
+			.facebook{width: 12px !important; height: 12px !important;}
+			.linkedin{width: 12px !important; height: 12px !important;}
+			a:hover{background-color:#C3A676;}
+			.aboutme{width: 700px}
+footer{font-family:"Montserrat", Arial, "Helvetica Neue", sans-serif; background-color:#C3A676}
+div{font-family:"Montserrat", Arial, "Helvetica Neue", sans-serif; font-size: 20px;}
+h1{font-family:"Montserrat", Arial, "Helvetica Neue", sans-serif; font-size: 40px;}
